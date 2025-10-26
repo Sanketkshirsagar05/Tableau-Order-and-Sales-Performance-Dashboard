@@ -4,6 +4,9 @@
 ## 📋 Project Overview  
 This project presents a **3-page interactive dashboard** developed in **Tableau**, offering a comprehensive view of business performance across sales, orders, and financial metrics. It provides actionable insights into revenue dynamics, customer behavior, operational efficiency, and profitability.
 
+## 🔗 Live Dashboard & Repository Links  
+- **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/OrderSalesPerformance/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
 ## 🧭 Dashboard Pages Overview  
 - **Page 1 – Overview**  
   Presents overall business performance with key financial ratios (GPM, OPM, ROA, ROE), cost vs revenue trends, and a broad profitability landscape.  
@@ -34,8 +37,6 @@ This project presents a **3-page interactive dashboard** developed in **Tableau*
 - Data-driven teams seeking insights into profitability and cost control.  
 - Executives looking for high-level dashboards summarizing performance across multiple dimensions.
 
-## 🔗 Live Dashboard & Repository Links  
-- **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/OrderSalesPerformance/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 
 
